@@ -16,7 +16,7 @@ $(document).ready(function() {
   });
 
   $("p.clickable").click(function() {
-    $("p.clickable").addClass(".clickable");
+    $("p.clickable").addClass("now-clicked");
   });
 
 });
