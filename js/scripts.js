@@ -15,4 +15,8 @@ $(document).ready(function() {
     //WHY DO THESE TWO LINES OF CODE NEED TO BE FIRST FOR IT TO WORK????
   });
 
+  $("p.clickable").click(function() {
+    $("p.clickable").addClass(".clickable");
+  });
+
 });
