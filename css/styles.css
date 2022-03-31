@@ -22,6 +22,14 @@ button#light {
   color: white;
 }
 
+p.clickable {
+  box-sizing: border-box;
+  width: 95%;
+  height: auto;
+  margin: auto;
+  padding: 20px;
+}
+
 .now-clicked {
   border: 2px solid red;
 }
