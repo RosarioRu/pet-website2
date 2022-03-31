@@ -21,3 +21,7 @@ button#light {
   background-color: black;
   color: white;
 }
+
+.now-clicked {
+  border: 2px solid red;
+}
