@@ -12,7 +12,7 @@ $(document).ready(function() {
     $("body").adddClass("light-mode");
     // $("button#light").hide();
     // $("button#dark").show();
-    
+    //WHY DO THESE TWO LINES OF CODE NEED TO BE FIRST FOR IT TO WORK????
   });
 
 });
