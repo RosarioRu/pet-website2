@@ -1,0 +1,16 @@
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button#dark{
+  background-color: white;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
