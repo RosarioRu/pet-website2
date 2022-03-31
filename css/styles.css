@@ -28,6 +28,7 @@ p.clickable {
   height: auto;
   margin: auto;
   padding: 20px;
+  cursor: URL("https://ia600207.us.archive.org/14/items/tucows_209811_Cat_Cursor/cat_cursor.gif"), pointer;
 }
 
 .now-clicked {
