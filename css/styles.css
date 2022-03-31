@@ -7,12 +7,14 @@
 
 button#dark {
   background-color: white;
-  color: #000000;
+  color: black;
 }
 
 button#light {
+  display:none;
   background-color: black;
   color: white;
+  border: 1px solid white;
 }
 
 .dark-mode {
