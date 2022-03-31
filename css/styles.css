@@ -5,9 +5,14 @@
   align-items: center;
 }
 
-button#dark{
+button#dark {
   background-color: white;
   color: #000000;
+}
+
+button#light {
+  background-color: black;
+  color: white;
 }
 
 .dark-mode {
